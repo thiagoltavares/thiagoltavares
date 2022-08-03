@@ -25,7 +25,7 @@ My name is Thiago Tavares, fullstack developer. Mobile developer / musician in m
 
 I have always been passionate about technology, I was fascinated with how video games works, I have been working with information technology for over 15 years, and it was in software development that I found myself.
 
-I'm currently working on Present Technologies as a React Software Developer.
+I'm currently working on Tammana.com as a Frontend Engineer Lead.
 
 - :book: Proud to be an [<Academia de Código_>](https://www.academiadecodigo.org/) Alumni.
 -  🔖   Proud to be a [Rocketseat](https://rocketseat.com.br/) Alumni.
