@@ -25,12 +25,7 @@ My name is Thiago Tavares, fullstack developer. Mobile developer / musician in m
 
 I have always been passionate about technology, I was fascinated with how video games works, I have been working with information technology for over 15 years, and it was in software development that I found myself.
 
-I'm currently working on [Tamanna](https://www.tamanna.com/) as a Frontend Engineer Lead.
-
-- :book: Proud to be an [<Academia de Código_>](https://www.academiadecodigo.org/) Alumni.
--  🔖   Proud to be a [Rocketseat](https://rocketseat.com.br/) Alumni.
 -  💻   I'm always learning and improving my software developer skills.
 -  😄   Did I mention that I Love JavasSript?
--  🎓   IT Management
 -  🐶   Lover
 
